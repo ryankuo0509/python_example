@@ -27,3 +27,6 @@ print (Obj_Class)
 
 #Obj_Class.__private_method()
 Obj_Class.get_private_method()
+
+
+#1st testing commit&push in github on VS code
